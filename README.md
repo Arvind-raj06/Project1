@@ -1,2 +1,3 @@
 # Project1
 The first github project
+I am editing the README file. Adding some more details about the project description.
